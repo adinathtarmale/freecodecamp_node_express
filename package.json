@@ -1,0 +1,15 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "free code camp complete node.js and express.js",
+  "main": "3-modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adinath",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  }
+}
